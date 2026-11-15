@@ -1,2 +1,1 @@
- Lunar Survival Figma Project
 Copy and paste the link given: https://www.figma.com/proto/WWLic47hnhcsAUBieGi2mt/Lunar-Survival?node-id=140-276&viewport=4333%2C377%2C0.08&t=viRVv1zxlpGYGqzU-1&scaling=contain&content-scaling=fixed&starting-point-node-id=140%3A276&show-proto-sidebar=1&page-id=0%3A1
